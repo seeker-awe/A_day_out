@@ -1,0 +1,8 @@
+- created 2021-07-22
+- this is project to reffamilriaize myself with CSS
+- i will cover the topics:
+	- different methods of CSS Styling
+	- positioning
+	- Display techniques
+
+- the project description:  Story of our outing
